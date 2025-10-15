@@ -15,7 +15,7 @@ To begin, generate the required mask data for training using the ASVspoof2019 da
 
 ```bash
 python tools/masks/make_masks_asv2019.py
-
+```
 The output should have the following format
 ```
 voc.v4/
