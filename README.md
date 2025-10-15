@@ -32,7 +32,6 @@ voc.v4/
 ```
 
 ## Train and Evaluate
-Execute the following commands (multi gpu is supported for training, set the gpus with CUDA_VISIBLE_DEVICES and -n for the actual number)
 
 Training options:
 ```
@@ -46,7 +45,7 @@ Training options:
 --diffusion_steps   number of steps for the diffusion model
 ```
 
-### MonuSeg
+### ASVspoof4-Voc.v4
 Training script example:
 ```
 python image_train_diff_medical.py --data_dir /home/opc/SegDiff/data/voc.v4 --rrdb_blocks 12 --batch_size 2 --lr 0.0001 --diffusion_steps 100
