@@ -59,3 +59,7 @@ Evaluation script example:
 python image_sample_diff_medical.py --model_path path-for-model-weights
 
 ```
+
+## 3. Crop and Concept Tools
+
+The following directory contains scripts related to crop generation and concept detection: tools/crops/
