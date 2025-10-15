@@ -44,20 +44,17 @@ Training options:
 --rrdb_blocks       Number of rrdb blocks
 --dropout           Dropout
 --diffusion_steps   number of steps for the diffusion model
-
 ```
 
 ### MonuSeg
 Training script example:
 ```
 python image_train_diff_medical.py --data_dir /home/opc/SegDiff/data/voc.v4 --rrdb_blocks 12 --batch_size 2 --lr 0.0001 --diffusion_steps 100
-
 ```
 
 Evaluation script example:
 ```
 python image_sample_diff_medical.py --model_path path-for-model-weights
-
 ```
 
 ## 3. Crop and Concept Tools
