@@ -1,0 +1,24 @@
+[
+  {"bona_id": "LA_D_1121142", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_1322543", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_1412552", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_1608630", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_1820875", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_2190620", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_2684373", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_2861752", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_2866947", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_2936796", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3316221", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3205943", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3306187", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3404272", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3416462", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3448074", "vocoder": "hn-sinc-nsf"},
+
+  {"bona_id": "LA_D_1361417", "vocoder": "hn-sinc-nsf-hifi"},
+  {"bona_id": "LA_D_4041525", "vocoder": "hn-sinc-nsf-hifi"},
+  {"bona_id": "LA_D_4013164", "vocoder": "hn-sinc-nsf-hifi"},
+  {"bona_id": "LA_D_4466001", "vocoder": "hn-sinc-nsf-hifi"},
+  {"bona_id": "LA_D_7521836", "vocoder": "hn-sinc-nsf-hifi"}
+]

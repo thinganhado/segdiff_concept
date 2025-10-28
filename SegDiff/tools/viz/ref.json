@@ -1,0 +1,5 @@
+[
+  {"bona_id": "LA_D_1121142", "vocoder": "hn-sinc-nsf", "concept": "fogging"},
+  {"bona_id": "LA_D_1469404", "vocoder": "hifigan", "concept": "formant attenuation"},
+  {"bona_id": "LA_D_4180571", "vocoder": "hn-sinc-nsf-hifi", "concept": "imaging"}
+]

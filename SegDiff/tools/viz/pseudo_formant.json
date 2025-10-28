@@ -1,0 +1,6 @@
+[
+  {"bona_id": "LA_D_4745806", "vocoder": "hifigan"},
+  {"bona_id": "LA_D_2285682", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3212286", "vocoder": "hn-sinc-nsf"},
+  {"bona_id": "LA_D_3312475", "vocoder": "hn-sinc-nsf"}
+]

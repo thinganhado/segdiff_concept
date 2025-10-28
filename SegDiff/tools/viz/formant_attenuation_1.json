@@ -1,0 +1,10 @@
+[
+  {"bona_id": "LA_D_5495040", "vocoder": "hifigan"},
+  {"bona_id": "LA_D_1469404", "vocoder": "hifigan"},
+  {"bona_id": "LA_D_6503475", "vocoder": "hifigan"},
+  {"bona_id": "LA_D_7160972", "vocoder": "hifigan"},
+  {"bona_id": "LA_T_2397067", "vocoder": "hifigan"},
+  {"bona_id": "LA_T_4810261", "vocoder": "hifigan"},
+
+  {"bona_id": "LA_D_7015174", "vocoder": "hn-sinc-nsf-hifi"}
+]
